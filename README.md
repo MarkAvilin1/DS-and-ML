@@ -1,2 +1,2 @@
 # DS-and-ML
-# Repository for my Data Scince projects and Machine learning
+# Repository for my Data Science projects and Machine learning
